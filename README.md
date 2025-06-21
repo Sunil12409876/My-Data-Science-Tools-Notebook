@@ -41,7 +41,7 @@ The Jupyter Notebook includes:
 
 ## 🔗 GitHub Notebook Link
 
-[Click here to view the notebook](./datascience-assignment.ipynb) or open directly in JupyterLite.
+[Click here to view the notebook]([./datascience-assignment.ipynb](https://github.com/Sunil12409876/My-Data-Science-Tools-Notebook.git)) or open directly in JupyterLite.
 
 ---
 
